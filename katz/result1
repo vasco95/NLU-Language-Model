@@ -1,0 +1,21 @@
+S1
+Bigram on train = 67.5311082174
+Bigram on test = 116.177492646
+Trigram on train = 9.55664670471
+Trigram on test = 40.5015309778
+S2
+Bigram on train = 59.4333067518
+Bigram on test = 153.002546843
+Trigram on train = 5.7856605263
+Trigram on test = 45.0348920008
+S3
+Bigram on train = 79.9333021706
+Bigram on test = 126.486568275
+Trigram on train = 9.68936057517
+Trigram on test = 43.4598767298
+S4
+Bigram on train = 79.9333021706
+Bigram on test = 205.56684638
+Trigram on train = 9.68936057517
+Trigram on test = 57.3772657188
+
